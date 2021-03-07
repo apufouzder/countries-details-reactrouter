@@ -1,0 +1,21 @@
+.country {
+    background: white;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 29px 10px rgb(55 84 170 / 10%);
+    color: #1e1e1e;
+}
+.country img {
+    width: 40%;
+}
+.button {
+    background: linear-gradient(335.64deg,#ff589b -19.22%,#ff136f 118.87%)!important;
+    padding: 4px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}

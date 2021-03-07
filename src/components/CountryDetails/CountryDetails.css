@@ -1,0 +1,13 @@
+.country-details {
+    border-radius: 10px;
+    background-color: white;
+    font-size: 24px;
+    width: 40%;
+    margin: 25px auto;
+    text-align: center;
+    box-shadow: 0 2px 29px 10px rgb(55 84 170 / 10%);
+    padding: 10px;
+}
+.country-details img{
+    width: 60%;
+}
